@@ -1,2 +1,2 @@
-# Force all Dart files to be recognized as Dart
+# Treat all Dart files as Dart language
 *.dart linguist-language=dart
