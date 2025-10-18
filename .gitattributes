@@ -1,3 +1,2 @@
-# Force all Dart files to be recognized as Dart (Flutter uses Dart)
+# Force all Dart files to be recognized as Dart
 *.dart linguist-language=dart
-
