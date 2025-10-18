@@ -44,6 +44,9 @@ Run the app`
 
 </br>
 
+## Demo
+*Provide a screenshot or GIF demonstrating the app in action.*
+
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
 You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on [Linkedin](https://www.linkedin.com/in/sufyanism)
@@ -65,5 +68,3 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 
 **Thank you for visiting!** 
 
-## Demo
-*Provide a screenshot or GIF demonstrating the app in action.*
