@@ -1,4 +1,4 @@
-# Photo Gallery Application Flutter
+# Photo Gallery Application Flutter 📷🖼️
 A simple and elegant photo gallery application built with Flutter. This app allows users to browse, view, and manage a collection of photos seamlessly across different devices.
 
 </br>
