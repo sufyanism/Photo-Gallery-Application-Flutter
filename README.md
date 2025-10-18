@@ -45,7 +45,7 @@ Run the app`
 </br>
 
 ## Demo
-*Provide a screenshot or GIF demonstrating the app in action.*
+https://github.com/user-attachments/assets/4d77276a-e54d-47d1-b251-7cf0c7d55a34
 
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
