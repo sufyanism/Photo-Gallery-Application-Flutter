@@ -1,0 +1,6 @@
+# Force all Dart files to be recognized as Dart (Flutter uses Dart)
+*.dart linguist-language=dart
+
+# Optional: If you have other files that might interfere, you can mark them as vendored or ignore
+# *.png linguist-vendored
+# *.json linguist-vendored
