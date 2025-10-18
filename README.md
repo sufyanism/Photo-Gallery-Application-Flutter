@@ -29,23 +29,23 @@ A simple and elegant photo gallery application built with Flutter. This app allo
 
 ## Installation
 
-###  1. Clone the repository
+###  1.Clone the repository
 ```sh
 git clone https://github.com/sufyanism/Photo-Gallery-Application-Flutter.git
 ```
 
-### 2. Navigate to the project directory
+### 2.Navigate to the project directory
 ```sh
 cd Photo-Gallery-Application-Flutter
 ```
 
-### 3. Install dependencies
+### 3.Install dependencies
 ```sh
 flutter pub get
 Run the app
 ```
 
-### 4. Connect a device or start an emulator, then execute:
+### 4.Connect a device or start an emulator, then execute:
 ```sh
 flutter run
 ```
